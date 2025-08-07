@@ -19,11 +19,11 @@ GlobeVista is a responsive React app that displays information about countries u
 
 ### 🏠 Home Page:
 
-![Home Page](./assets/screenshots/homescreen.png)
+![Home Page](./screenshots/homescreen.png)
 
 ### 🌍 Countries Page:
 
-![Countries Page](./assets/screenshots/countryss.png)
+![Countries Page](./screenshots/countryss.png)
 
 ---
 
