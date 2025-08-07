@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "FaLocationDot",
+    "title": "Find Us",
+    "details": "Lahore Pakistan"
+  },
+  {
+    "icon": "IoCall",
+    "title": "Call Us",
+    "details": "9876543211"
+  },
+  {
+    "icon": "BiLogoGmail",
+    "title": "Mail Us",
+    "details": "hamza@gmail.com"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Canada",
+    "population": 38000000,
+    "capital": "Ottawa",
+    "region": "North America",
+    "language": "English/French",
+    "currency": "Canadian Dollar",
+    "description": "Canada is known for its diverse culture, friendly people, and stunning natural landscapes like the Rocky Mountains, Niagara Falls, and national parks. It embraces multiculturalism and bilingualism."
+  },
+  {
+    "id": 2,
+    "name": "Germany",
+    "population": 83000000,
+    "capital": "Berlin",
+    "region": "Europe",
+    "language": "German",
+    "currency": "Euro",
+    "description": "Germany blends historic charm with modern innovation. Explore castles, the Black Forest, Oktoberfest traditions, and cities rich in culture like Berlin, Munich, and Hamburg."
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "population": 126000000,
+    "capital": "Tokyo",
+    "region": "Asia",
+    "language": "Japanese",
+    "currency": "Japanese Yen",
+    "description": "Japan offers a unique mix of ancient traditions and cutting-edge technology. From cherry blossoms and temples to sushi and bullet trains, its culture is both refined and fascinating."
+  },
+  {
+    "id": 4,
+    "name": "Brazil",
+    "population": 213000000,
+    "capital": "Brasília",
+    "region": "South America",
+    "language": "Portuguese",
+    "currency": "Brazilian Real",
+    "description": "Brazil is vibrant with colorful festivals like Carnival, rhythmic samba music, and the Amazon rainforest. Cities like Rio and São Paulo are full of energy and scenic beauty."
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "population": 25600000,
+    "capital": "Canberra",
+    "region": "Oceania",
+    "language": "English",
+    "currency": "Australian Dollar",
+    "description": "Australia is famous for its beaches, wildlife, and laid-back culture. Visit the Great Barrier Reef, Sydney Opera House, or explore Aboriginal heritage and outback adventures."
+  },
+  {
+    "id": 6,
+    "name": "India",
+    "population": 1390000000,
+    "capital": "New Delhi",
+    "region": "Asia",
+    "language": "Hindi/English",
+    "currency": "Indian Rupee",
+    "description": "India is a land of vibrant colors, spices, traditions, and festivals. From the Taj Mahal to the Himalayas, every region offers unique cuisine, language, and cultural experiences."
+  },
+  {
+    "id": 7,
+    "name": "South Africa",
+    "population": 60000000,
+    "capital": "Pretoria",
+    "region": "Africa",
+    "language": "Zulu/English",
+    "currency": "South African Rand",
+    "description": "South Africa is known for its rich wildlife, diverse cultures, and scenic landscapes like Table Mountain and Kruger National Park. It's often called the 'Rainbow Nation'."
+  },
+  {
+    "id": 8,
+    "name": "United Kingdom",
+    "population": 67000000,
+    "capital": "London",
+    "region": "Europe",
+    "language": "English",
+    "currency": "Pound Sterling",
+    "description": "The UK offers a blend of royal history, modern cities, and countryside charm. Explore Buckingham Palace, ancient castles, and Shakespeare’s cultural heritage."
+  },
+  {
+    "id": 9,
+    "name": "Mexico",
+    "population": 128000000,
+    "capital": "Mexico City",
+    "region": "North America",
+    "language": "Spanish",
+    "currency": "Mexican Peso",
+    "description": "Mexico is rich in ancient civilizations, colorful festivals, and delicious food. Visit Mayan ruins, beaches in Cancun, and enjoy mariachi music and tacos."
+  },
+  {
+    "id": 10,
+    "name": "China",
+    "population": 1440000000,
+    "capital": "Beijing",
+    "region": "Asia",
+    "language": "Mandarin",
+    "currency": "Renminbi (Yuan)",
+    "description": "China has a long history and diverse culture. From the Great Wall to traditional tea ceremonies, it’s a land of innovation, heritage, and beautiful landscapes."
+  }
+]
