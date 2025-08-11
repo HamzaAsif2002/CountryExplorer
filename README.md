@@ -15,7 +15,7 @@ GlobeVista is a responsive React app that displays information about countries u
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Screenshots
 
 ### 🏠 Home Page:
 
