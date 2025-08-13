@@ -14,8 +14,10 @@ export const IndvCountry = () => {
       try {
         const res = await getIndvCountryData(name);
         setData(res.data[0]);
-        console.log(res);
+        // console.log(res);
       } catch (error) {
+        console.log("error");
+
         console.error("Error fetching country:", error);
       }
     });
